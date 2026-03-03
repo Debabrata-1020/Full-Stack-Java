@@ -1,0 +1,89 @@
+1. What is Full Stack Development?
+- The process of developing 
+   a complete project end-to-end is 
+   called full stack development.
+
+- An End-to-End means 
+  from the front-end screens 
+  to back-end database tables.
+
+- Every project has three parts
+	1. UI Screens
+	2. Programs
+	3. Database
+	
+- For exaxmple :
+	amazon.in , flipkart.com, nareshit.com , irctc.com
+	
+	===========
+	| Diagram |
+	===========
+	
+2. What is full stack java development ?
+- If we develop a project using
+  [Java language and java frameworks]
+  we called it as Full Stack Java development
+  
+  
+3. What is Full Stak Java developer ?
+- A developer who can develop
+  all three parts of a project
+  by using Java language
+  is called as Full Stack Java Developer
+
+  
+4. What are the other Full Stack Devlopements available ?
+- We have 5 Full Stack Flavours
+	1. Java Full Stack
+	2. Python Full Stack
+	3. .Net Core Full Stack
+	4. UI Full Stack
+	4. Data Science Full Stack
+	
+	
+	===========
+	| Diagram |
+	===========
+	
+
+5. Full Stack Java developement Syllabus
+- In every project, we have 2 kinds of operations
+	1. Developement
+		
+	2. and after development
+		
+- Under development, we will create database tables , UI Screens ,
+  program for connecting UI screens to database tables and for 
+  performing this project operations
+		
+- After development. we will performing  
+  compiling , building , deploying , running , testing project functionality 
+  and sharing source code to other developers of this project and
+  finally sharing project to client, having the calls with client and onsite team,
+  fixing the bugs, testing performance etc. 
+
+- For easy understanding and learning , we divided full stack java into 5 modules
+   
+	1. Java module
+	2. Database module
+	3. UI Module
+	4. DevSecOps module
+	5. AWS basics
+   
+  
+  
+	===========
+	| Diagram |
+	===========
+	
+
+About Core Java
+================
+- As part of Core Java we will learn
+	Unit #1. Java Fundamentals
+	Unit #2. Object-Oriented programming
+	Unit #3. Logical Programming
+	Unit #4. Java Library
+	Unit #5. Project Development
+	
+	

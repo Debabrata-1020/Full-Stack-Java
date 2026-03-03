@@ -1,0 +1,132 @@
+Data Store
+==========
+-> The location where data is stored is called as "data store".
+-> e.g. medical store , app store
+
+-> Goal :
+	Storing Business Data permanently
+College
+	Course
+	Student
+	Marks
+	Fees
+	Staff
+	Library
+	
+Before 1960s => Books
+1960s        => File
+1970s        => Database
+
+-> In Varibale and object, data store in temporarily.
+-> In File and database, we store data permanently.
+
+  
+      File			     Database
+-----------------------------------------------------------------
+-> Developed for single user     -> Developed for multiple user
+-> Used to store small amounts   -> Used to store large amounts 
+   of data                          of data
+-> No security                   -> It is secured
+
+
+Database
+========
+-> Database is a kind of data store.
+-> Database is a location where organization's business data stored 
+   permanently
+-> e.g. Amazon DB
+		Products
+		Wishlist
+		Orders
+		Payments
+		Customers
+        Bank Db
+		Customers
+		Transactions
+		Products
+		Branches
+		Staff
+		
+		
+DBMS
+====
+-> DBMS Stands for "Database Management System"
+-> DBMS is a software is used to create and maintain the database.
+
+-> To watch movies => Media Player S/W
+-> To visit websites => Browser S/W  e.g. Google Chrome, Mozilla Firefox
+-> To create presentations => Powerpoint
+-> To create database => DBMS
+
+
+
+Before 1960s => Books
+In 1960s     => Files
+In 1970s     => HDBMS  [Hierarchical DBMS] 
+             => NDBMS  [Network DBMS]
+	     
+In 1976      => RDBMS [Relational DBMS]  => A concept called RDBMS
+                                           introduced by E.F. Codd
+
+Oracle Company founder  => Larry Ellison
+In 1979  => Oracle => RDBMS 
+  
+
+
+
+
+RDBMS
+=====
+-> RDBMS is kind of DBMS.
+-> RDBMS => Relational Database Management System
+-> Relation = Table
+-> It is used to create and maintain the database in the form of tables.
+                         Bank DB
++-------------------------------------------------------------+
+|                        Customers                            |
+|	    Cid Cname Mobile MailID Adhar PAN                 |
+|                                                             |
+|			Transactions                          |
+|            Tid  T_date_time T_type amount                   |
+|                                                             |
+|			Branches                              |
+|	     ifsc_code city state country                     |
+|                                                             |
++-------------------------------------------------------------+
+-> Examples :
+	Oracle , SQL SERVER, DB2, Postgre SQL, MYSQL
+
+
+Table
+=====
+-> Table is a collection of rows and columns.
+-> Row :
+	horizontal represantation of data.
+-> Column :
+	Vertical represantation of data.
+	
+       Employee
+empno   ename     sal
+1001    Raju     6000 ------------------> Row / Record / Tuple / Entity instance
+1002    Kiran    8000
+                   |
+		   |
+		   |
+		   V
+		 Column / Field / Property / Attribute
+
+
+Metadata 
+========
+-> Metadata is the data about the data.
+
+	Student
+ Sid     Sname    Fees
+ 1001    Raju     6000
+ 
+-> Example :
+	Field name : Sid, Sname , Fees
+        Table name : Student
+        Data type  : number , varchar , date
+	Field size : number(4) , varchar(10)
+	
